@@ -1,7 +1,6 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+use rails s -p $PORT -b $IP to start the rails server in C9, or rails s when run from terminal. 
 
 Things you may want to cover:
 
